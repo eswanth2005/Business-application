@@ -73,7 +73,6 @@ Note: Before inserting an image for the logo you need to use the following proce
 
 
 
-
 ## RESULT:
 
 Thus, creating a Warehouse Application in SalesForce.com is successfully created.
